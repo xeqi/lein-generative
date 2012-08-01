@@ -4,11 +4,10 @@ A [Leiningen](https://github.com/technomancy/leiningen) plugin used to run gener
 
 ## Getting
 
-*This is currently only proven to work in Leiningen versions earlier than 2.0*
 
 Add the following to your Leiningen `project.clj` file in the `:plugins` section:
 
-    [lein-generative "0.1.4.0"]
+    [lein-generative "0.1.4.1"]
 
 The version number of lein-generative will track the latest released version of test.generative. The end of the version number will be the specific sub-version of this plugin.
 
